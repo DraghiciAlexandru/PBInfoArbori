@@ -1,0 +1,11 @@
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\ProblemePBInfo\ProblemePBInfo\bin\Debug\netcoreapp3.1\ProblemePBInfo.exe
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\ProblemePBInfo\ProblemePBInfo\bin\Debug\netcoreapp3.1\ProblemePBInfo.deps.json
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\ProblemePBInfo\ProblemePBInfo\bin\Debug\netcoreapp3.1\ProblemePBInfo.runtimeconfig.json
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\ProblemePBInfo\ProblemePBInfo\bin\Debug\netcoreapp3.1\ProblemePBInfo.runtimeconfig.dev.json
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\ProblemePBInfo\ProblemePBInfo\bin\Debug\netcoreapp3.1\ProblemePBInfo.dll
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\ProblemePBInfo\ProblemePBInfo\bin\Debug\netcoreapp3.1\ProblemePBInfo.pdb
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\ProblemePBInfo\ProblemePBInfo\obj\Debug\netcoreapp3.1\ProblemePBInfo.csprojAssemblyReference.cache
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\ProblemePBInfo\ProblemePBInfo\obj\Debug\netcoreapp3.1\ProblemePBInfo.AssemblyInfoInputs.cache
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\ProblemePBInfo\ProblemePBInfo\obj\Debug\netcoreapp3.1\ProblemePBInfo.AssemblyInfo.cs
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\ProblemePBInfo\ProblemePBInfo\obj\Debug\netcoreapp3.1\ProblemePBInfo.dll
+D:\C#\ConsoleApps\OOP\StructuriDeDateGenerice\ProblemePBInfo\ProblemePBInfo\obj\Debug\netcoreapp3.1\ProblemePBInfo.pdb
