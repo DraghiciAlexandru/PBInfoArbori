@@ -130,5 +130,25 @@ namespace ProblemePBInfo
             postorder(node.Right);
             Console.WriteLine(node.Data);
         }
+
+        public int nivel(TreeNode<T> node, T data)
+        {
+            if (node == null)
+            {
+                return 0;
+            }
+
+            if (node.Data.Equals(data))
+            {
+                return nivel(null, data);
+            }
+
+            else if (find(node.Left, data) != null)
+                return 1 + nivel(node.Left, data);
+            else if (find(node.Right, data) != null)
+                return 1 + nivel(node.Right, data);
+
+            return -1;
+        }
     }
 }

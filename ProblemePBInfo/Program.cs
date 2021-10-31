@@ -6,7 +6,7 @@ namespace ProblemePBInfo
     {
         static void Main(string[] args)
         {
-            PB677 pB677 = new PB677();
+
         }
     }
 }
